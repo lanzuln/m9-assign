@@ -1,0 +1,8 @@
+======= A report about my task==============
+
+>>>>First of all, I create 4 html files (index.html, blog.html, contact.html, and single-blog.html), 
+____ I use bootstrap for responsive
+____ use google font for good lookin fent.
+____ use fontawesome logo for social icon 
+
+>>>>overall, I don't  face any complex issues. I feel  enjoy to do this.
