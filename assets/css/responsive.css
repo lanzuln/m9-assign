@@ -1,0 +1,58 @@
+@media only screen and (max-width:991px) {
+	.bleng_menu {
+		background: #000;
+	}
+	.w_btn span {
+		background: #F5C778;
+	}
+	button.w_btn {
+		border-color: #F5C778 !important;
+	}
+	.section_heading {
+		font-size: 20px;
+		margin-right: 5px;
+	}
+	.categoris ul li a {
+    padding: 5px 11px;
+	}
+	.search_form input[type="text"] {
+		width: 60%;
+	}
+	.search_form input[type="submit"] {
+		width: 40%;
+	}
+	.b_title {
+		font-size: 40px;
+	}
+	a.navbar-brand {
+		font-size: 30px;
+	}
+	.sec_pad {
+		padding: 80px 0px;
+	}
+	
+	.featured_post_area{
+		margin-bottom: -30px;
+	}
+
+}
+@media only screen and (max-width:768px) {
+	.bg_big {
+		height: 250px;
+	}
+	.bg_comn {
+		margin-bottom: 30px;
+	}
+	.section_heading:after {
+		left: 50%;
+		top: 30px;
+		margin-left: -40px;
+	}
+	.blog_layout .section_heading:after{
+		right: auto !important;
+		top: 50% !important;
+		margin-left: 10px !important;
+		left: auto;
+	}
+
+}
